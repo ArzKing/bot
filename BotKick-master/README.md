@@ -15,4 +15,4 @@ Keyword :
 - Tagall = Tag semua member ( Beta )
 - Spam = Spam lirik lagu JKT48 - oogoe diamond
 
-Created By Farzain - zFz
+Arz
