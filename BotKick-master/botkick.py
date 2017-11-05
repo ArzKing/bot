@@ -147,9 +147,8 @@ def SEND_MESSAGE(op):
                             except:
                                 sendText(msg.to,"error")
 #-------------------------------------------------------------			
-		if msg.text == "Hai":
+		if msg.text == "speed":
                     start = time.time()
-                    sendMessage(msg.to, "hehehe")
                     elapsed_time = time.time() - start
                     sendMessage(msg.to, "%sseconds" % (elapsed_time))
 #-------------------------------------------------------------
